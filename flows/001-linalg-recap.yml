@@ -38,6 +38,7 @@ pages:
     id: changeanswerpenalty
     access_rules:
         add_permissions:
+            - submit_answer
             - change_answer_penalty
     prompt: |
         # Forward Error
