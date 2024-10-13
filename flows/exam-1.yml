@@ -90,7 +90,7 @@ pages:
     id: changeanswerpenalty
     access_rules:
         add_permissions:
-            - change_answer
+            - change_answer_penalty
     prompt: |
         # Forward Error
         Consider the function $f(x)=1/x$, which we approximate by its Taylor
