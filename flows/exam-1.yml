@@ -87,7 +87,7 @@ pages:
 
 -
     type: TextQuestion
-    id: change-answer-penalty
+    id: changeanswerpenalty
     access_rules:
         add_permissions:
             - change_answer
